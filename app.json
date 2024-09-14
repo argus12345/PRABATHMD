@@ -7,12 +7,12 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "94741131420",
       "required": true
     },  
 
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "PRABATH-MD~QqczyCyB#MtV5hmvxLRXx2L4kY-yP-S0E7i-ZoXyn8KhhyLaFRgs",
       "required": false
     },  
 
